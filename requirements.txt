@@ -4,7 +4,3 @@ pandasai
 langchain-groq
 python-dotenv
 jinja2
-rich
-markdown-it-py
-mdurl
-pygments
