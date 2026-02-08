@@ -1,0 +1,6 @@
+streamlit
+pandas
+pandasai
+langchain-groq
+python-dotenv
+jinja2
