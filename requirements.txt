@@ -1,7 +1,6 @@
-streamlit==1.56.0
+streamlit
 pandas>=2.1.0
-pandasai>=2.0.0
-astor
+pandasai
 langchain-groq
 python-dotenv
 jinja2
